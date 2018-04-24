@@ -628,6 +628,6 @@
   <include name="remove.xml" />
 
   <!-- Add all tracked Liquid/AOSP repos -->
-  <include name="ls8.1_default.xml" />
+  <include name="ls-8.1_default.xml" />
 
 </manifest>
