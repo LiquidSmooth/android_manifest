@@ -627,7 +627,7 @@
   <!-- Remove unused AOSP repos -->
   <include name="remove.xml" />
 
-  <!-- Add all tracked DU/AOSP repos -->
-  <include name="o8x_default.xml" />
+  <!-- Add all tracked Liquid/AOSP repos -->
+  <include name="ls-8.1_default.xml" />
 
 </manifest>
